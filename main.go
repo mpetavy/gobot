@@ -1,6 +1,7 @@
 package main
 
 import (
+	"embed"
 	"fmt"
 	"github.com/mpetavy/common"
 	"gobot.io/x/gobot"
@@ -9,8 +10,11 @@ import (
 	"time"
 )
 
+//go:embed go.mod
+var resources embed.FS
+
 func init() {
-	common.Init("gobot", "", "", "", "2023", "gobot", "mpetavy", fmt.Sprintf("https://github.com/mpetavy/%s", common.Title()), common.APACHE, nil, nil, nil, run, 0)
+	common.Init("", "", "", "", "gobot", "", "", "", &resources, nil, nil, run, 0)
 }
 
 func run() error {
