@@ -1,9 +1,9 @@
-module gobot
+module github.com/mpetavy/gobot
 
 go 1.21.3
 
 require (
-	github.com/mpetavy/common v1.6.38
+	github.com/mpetavy/common v1.6.41
 	gobot.io/x/gobot v1.16.0
 )
 
