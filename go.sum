@@ -166,8 +166,8 @@ github.com/mattn/go-isatty v0.0.18 h1:DOKFKCQ7FNG2L1rbrmstDN4QVRdS89Nkh85u68Uwp9
 github.com/mattn/go-isatty v0.0.18/go.mod h1:W+V8PltTTMOvKvAeJH7IuucS94S2C6jfK/D7dTCTo3Y=
 github.com/mgutz/ansi v0.0.0-20170206155736-9520e82c474b/go.mod h1:01TrycV0kFyexm33Z7vhZRXopbI8J3TDReVlkTgMUxE=
 github.com/mgutz/logxi v0.0.0-20161027140823-aebf8a7d67ab/go.mod h1:y1pL58r5z2VvAjeG1VLGc8zOQgSOzbKN7kMHPvFXJ+8=
-github.com/mpetavy/common v1.6.43 h1:UhsFIVVKtHU0K5czw6F+9o4TEO6Adc5rWHIzbTG5tis=
-github.com/mpetavy/common v1.6.43/go.mod h1:FUybKJ35z1SwKKDgejNcSrhBvgEpNcwT9TQBLjP17s0=
+github.com/mpetavy/common v1.6.44 h1:aCtjcOFO+CyE9ppX13iVSMXkOn5jFjP3tZdWCNKrMZY=
+github.com/mpetavy/common v1.6.44/go.mod h1:FUybKJ35z1SwKKDgejNcSrhBvgEpNcwT9TQBLjP17s0=
 github.com/muka/go-bluetooth v0.0.0-20200926181701-4ca7d8dd0ff5/go.mod h1:dMCjicU6vRBk34dqOmIZm0aod6gUwZXOXzBROqGous0=
 github.com/muka/go-bluetooth v0.0.0-20200928120822-44d49b402aee/go.mod h1:dMCjicU6vRBk34dqOmIZm0aod6gUwZXOXzBROqGous0=
 github.com/nats-io/jwt v0.3.0/go.mod h1:fRYCDE99xlTsqUzISS1Bi75UBJ6ljOJQOAAu5VglpSg=
