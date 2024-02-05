@@ -3,7 +3,7 @@ module github.com/mpetavy/gobot
 go 1.21.3
 
 require (
-	github.com/mpetavy/common v1.7.0
+	github.com/mpetavy/common v1.7.1
 	gobot.io/x/gobot v1.16.0
 )
 
